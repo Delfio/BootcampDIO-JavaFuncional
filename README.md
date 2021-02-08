@@ -1,9 +1,6 @@
 <div style="display:flex;justify-content:center;" > 
     <h1>
         Java Funcional
-        <img src="https://cdn.shopify.com/s/files/1/1061/1924/files/OMG_Face_Emoji.png?8026536574188759287"
-        style="width:50px"
-        alt="omfgwtf"/>
     </h1>
 </div>
 
